@@ -11,7 +11,7 @@ Before the introduction of [Protocol 15](https://www.stellar.org/developers-blog
 Since the implementation of [sponsored reserves](https://developers.stellar.org/docs/glossary/sponsored-reserves/), Mesh uses the sponsored reserves mechanism for funding your minimum reserve balance requirements.
 This eliminates the need for a "transfer and lock" mechanism for any and all entries added to your account after 01 March 2022.
 
-## What is the effect of the migration
+## What is the effect of the migration 1
 
 Mesh will be taking over the sponsorship requirements for all our user accounts with any locked XLM balance on 12 August 2022.
 
