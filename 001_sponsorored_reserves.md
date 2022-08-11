@@ -9,7 +9,7 @@ When creating an account on Stellar a minimum of 1 [XLM](https://www.stellar.org
 Before the introduction of [Protocol 15](https://www.stellar.org/developers-blog/protocol-15-upgrade-complete) there was no native way to sponsor these reserves. In order to provide a seamless experience for interacting with the Stellar chain, Mesh sponsored all account reserve requirements by making a small transfer into your account every time an increase in reserves was required. This balance was then locked by the network but still contributed to your account balance - more on this later.
 
 Since the implementation of [sponsored reserves](https://developers.stellar.org/docs/glossary/sponsored-reserves/), Mesh uses the sponsored reserves mechanism for funding your minimum reserve balance requirements.
-This eliminates the need for a "transfer and lock" mechanism for any and all entries added to your account after 01 March 2020.
+This eliminates the need for a "transfer and lock" mechanism for any and all entries added to your account after 01 March 2022.
 
 ## What is the effect of the migration
 
